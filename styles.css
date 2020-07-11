@@ -69,15 +69,15 @@ header {
 }
 
 .interests-header {
-  background: url('images/clouds-gif-png-4.gif'), url('images/zion_national_park.jpg') no-repeat top center;
+  background: url('images/zion_national_park.jpg') no-repeat top center;
   background-size: cover;
   overflow: hidden;
   text-align: center;
   transition: all .5s;
 }
 .interests-header:hover {
-  /* padding: 0%; */
- background: url('images/clouds-gif-png-4.gif') repeat bottom right, url('images/zion_national_park.jpg') no-repeat bottom center;
+
+  background: url('images/zion_national_park.jpg') no-repeat bottom center;
 }
 header .profile-image {
   margin-top: 50px;
